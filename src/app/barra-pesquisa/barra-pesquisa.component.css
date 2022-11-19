@@ -29,3 +29,10 @@
     color: #fff;
     font-size: 22px;
 }
+
+@media screen and (max-width: 600px) {
+    .search-form input{
+        width: 1px;
+    }
+  
+  }
